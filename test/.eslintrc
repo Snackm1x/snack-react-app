@@ -1,0 +1,15 @@
+{
+    "globals": {
+        "expect": true,
+        "chance": true,
+        "fixtures": true,
+        "sinon": true,
+        "stub": true,
+        "stubbedRequire": true
+    },
+    "rules": {
+        "complexity": 0,
+        "no-sync": 0,
+        "mocha/no-sibling-hooks": 0
+    }
+}
